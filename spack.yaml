@@ -1,0 +1,5 @@
+spack:
+  specs:
+    - hdf5
+    - openmpi
+    - nalu
